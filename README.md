@@ -1,2 +1,2 @@
-# pedra-papel-tesoura
-Jogo de pedra, papel e tesoura, simples feito em python.
+# games-in-python
+Neste repositório estarei colocando alguns jogos simples que farei usando a liguagem python.
